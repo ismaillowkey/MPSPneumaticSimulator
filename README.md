@@ -1,4 +1,4 @@
-﻿# 🏭 MPS Pneumatic Simulator — Distribution & PLC Examples
+# 🏭 MPS Pneumatic Simulator — Distribution & PLC Examples
 
 [![GitHub Release](https://img.shields.io/github/v/release/ismaillowkey/MPSPneumaticSimulator?color=0091DC&logo=github)](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases)
@@ -7,6 +7,16 @@
 [![Saweria](https://img.shields.io/badge/Dukung-Saweria-E11D48?logo=heart)](https://saweria.co/ismaillowkey)
 
 Selamat datang di repositori resmi distribusi **MPS Pneumatic Simulator** dan kumpulan **Example Program PLC**. Repositori ini menyediakan berkas instalasi resmi (*setup installer*) aplikasi simulator serta kode contoh ladder diagram PLC (Omron, Mitsubishi, Haiwell, dll.) yang dapat langsung digunakan untuk pembelajaran mekatronika dan otomasi industri.
+
+![MPS Pneumatic Simulator 3D Viewport](docs/images/screenshot-2.jpg)
+
+---
+
+## 📸 Tangkapan Layar (Screenshots)
+
+| Pusat Katalog Stasiun | Konfigurasi Alamat PLC & Sensor 3D |
+| :---: | :---: |
+| ![Pusat Katalog Stasiun](docs/images/screenshot-1.jpg) | ![Konfigurasi Alamat PLC](docs/images/screenshot-3.jpg) |
 
 ---
 
