@@ -20,6 +20,16 @@ Selamat datang di repositori resmi distribusi **MPS Pneumatic Simulator** dan ku
 
 ---
 
+## 🎬 Video Demo & Cara Penggunaan
+
+https://github.com/user-attachments/assets/demo (Video demo simulasi 3D dan koneksi PLC)
+
+https://github.com/ismaillowkey/MPSPneumaticSimulator/raw/main/docs/videos/example_cara_pakai.mp4
+
+> 🎥 **[Klik di sini untuk mengunduh / menonton Video Demo](docs/videos/example_cara_pakai.mp4)** apabila pemutar video di atas tidak tampil secara otomatis di peramban Anda.
+
+---
+
 ## 📥 Download Installer Terbaru
 
 Unduh installer setup versi terbaru pada halaman **[GitHub Releases](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases)**:
