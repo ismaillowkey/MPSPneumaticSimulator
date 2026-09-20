@@ -8,15 +8,33 @@
 
 Selamat datang di repositori resmi distribusi **MPS Pneumatic Simulator** dan kumpulan **Example Program PLC**. Repositori ini menyediakan berkas instalasi resmi (*setup installer*) aplikasi simulator serta kode contoh ladder diagram PLC (Omron, Mitsubishi, Haiwell, dll.) yang dapat langsung digunakan untuk pembelajaran mekatronika dan otomasi industri.
 
+---
+
+## 📥 Download Installer Terbaru
+
+Unduh installer setup versi terbaru pada halaman **[GitHub Releases](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases)**:
+
+| Berkas | Platform | Tautan Unduhan |
+| :--- | :--- | :--- |
+| **MPS Pneumatic Simulator (Setup Installer)** | Windows 10 / 11 (32-bit / 64-bit) | [Download Setup (.exe)](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases/latest) |
+
+### Persyaratan Sistem
+* **Sistem Operasi:** Windows 10 atau Windows 11 (32-bit / 64-bit)
+* **Runtime:** .NET Framework 4.7.2 (sudah terpasang secara bawaan di Windows 10/11)
+* **Grafis:** Direct3D / DirectX 9 ke atas (Hardware Accelerated)
+* **Ruang Penyimpanan:** ~30 MB
+
+---
+
 ![MPS Pneumatic Simulator 3D Viewport](docs/images/screenshot-2.jpg)
 
 ---
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Pusat Katalog Stasiun | Konfigurasi Alamat PLC & Sensor 3D |
-| :---: | :---: |
-| ![Pusat Katalog Stasiun](docs/images/screenshot-1.jpg) | ![Konfigurasi Alamat PLC](docs/images/screenshot-3.jpg) |
+| Pusat Katalog Stasiun | Trainer 3 Silinder & Wiring | Modul 3: Water Filling Station |
+| :---: | :---: | :---: |
+| ![Pusat Katalog Stasiun](docs/images/screenshot-1.jpg) | ![Konfigurasi Alamat PLC](docs/images/screenshot-3.jpg) | ![Modul 3 Water Filling Station](docs/images/module3-screenshot1.jpg) |
 
 ---
 
@@ -27,22 +45,6 @@ https://github.com/user-attachments/assets/demo (Video demo simulasi 3D dan kone
 https://github.com/ismaillowkey/MPSPneumaticSimulator/raw/main/docs/videos/example_cara_pakai.mp4
 
 > 🎥 **[Klik di sini untuk mengunduh / menonton Video Demo](docs/videos/example_cara_pakai.mp4)** apabila pemutar video di atas tidak tampil secara otomatis di peramban Anda.
-
----
-
-## 📥 Download Installer Terbaru
-
-Unduh installer setup versi terbaru pada halaman **[GitHub Releases](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases)**:
-
-| Berkas | Versi | Platform | Tautan Unduhan |
-| :--- | :--- | :--- | :--- |
-| **MPS_Pneumatic_Simulator_v0.4.0_Setup.exe** | **v0.4.0** *(Latest)* | Windows 10 / 11 (x86 & x64) | [Download Setup (.exe)](https://github.com/ismaillowkey/MPSPneumaticSimulator/releases/latest) |
-
-### Persyaratan Sistem
-* **Sistem Operasi:** Windows 10 atau Windows 11 (32-bit / 64-bit)
-* **Runtime:** .NET Framework 4.7.2 (sudah terpasang secara bawaan di Windows 10/11)
-* **Grafis:** Direct3D / DirectX 9 ke atas (Hardware Accelerated)
-* **Ruang Penyimpanan:** ~30 MB
 
 ---
 
