@@ -80,7 +80,7 @@ Repositori ini menyertakan folder **Example program PLC/** yang berisi template 
 
 `
 📁 Example program PLC/
-└── 📁 MPS Distributing plc omron/
+└── 📁 01_MPS_Distributing_Station/Omron_CX_Programmer/
     ├── 📄 mps_distributing.cxp   # Proyek ladder diagram Omron CX-Programmer
     └── 📄 mps_distributing.opt   # Konfigurasi workspace CX-Programmer
 `
@@ -88,7 +88,7 @@ Repositori ini menyertakan folder **Example program PLC/** yang berisi template 
 ### 🚀 Cara Menghubungkan ke Omron CX-Programmer:
 1. Pasang dan buka **Omron CX-Programmer**.
 2. Buka berkas proyek:  
-   Example program PLC/MPS Distributing plc omron/mps_distributing.cxp
+   Example program PLC/01_MPS_Distributing_Station/Omron_CX_Programmer/mps_distributing.cxp
 3. Nyalakan simulator internal CX-Programmer dengan memilih menu:  
    **Simulation ➔ Work Online Simulator** (atau tekan Ctrl + Shift + W).
 4. Jalankan **MPS Pneumatic Simulator**.

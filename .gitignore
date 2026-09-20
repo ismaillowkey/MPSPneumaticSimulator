@@ -1,0 +1,10 @@
+# Backup & Options files (CX-Programmer, etc.)
+*.bak
+*.opt
+
+# OS / Editor temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+~$*
